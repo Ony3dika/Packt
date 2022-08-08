@@ -1,0 +1,32 @@
+[
+    {
+        "img":"./Img/9781801816779-original_202.png",
+        "title":"CompTIA CASP+ CAS-004 Certification Guide",
+        "price":"$ 33.99"
+    },
+
+    {
+        "img":"./Img/9781803247335-original_283.jpeg",
+        "title":"Transformers for Natural Language...",
+        "price":"$ 33.99"
+    },
+
+    {
+        "img":"./Img/9781801817479-original_611.jpeg",
+        "title":"Transformers for Natural Language...",
+        "price":"$ 33.99"
+    },
+    
+    {
+        "img":"./Img/9781803239705-original_225.jpeg",
+        "title":"ASP.NET Core 6 and Angular - Fifth Edition",
+        "price":"$ 41.99"
+    },
+
+    {
+        "img":"./Img/9781803237190-original_137.png",
+        "title":"Automating Salesforce Marketing Cloud",
+        "price":"$ 37.99"
+    }
+
+]

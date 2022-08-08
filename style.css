@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color: rgb(60, 60, 59);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.btn{
+    background-color: rgb(236, 102, 17);
+    color: white;
+    border: 0;
+}
+
+.btn:hover{
+    background-color: rgb(236, 102, 17);
+    color: white;
+}
+
+.img{
+    height: 45px;
+}
+
+.foot{
+    background-color:rgb(60, 60, 59);
+}
+
+.mt-n5{
+    margin-top: -0.5rem;
+}

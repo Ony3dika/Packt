@@ -1,0 +1,32 @@
+[
+    {
+        "img":"./Img/9781801812603-original_25.png",
+        "title":"React - The Complete Guide (includes Hooks,...",
+        "price":"$ 188.99"
+    },
+
+    {
+        "img":"./Img/9781803230146-original_18.jpeg",
+        "title":"Data Science and Machine Learning",
+        "price":"$ 134.99"
+    },
+
+    {
+        "img":"./Img/9781803247892-original_22.jpeg",
+        "title":"The Complete Practical Docker Guide [Video]",
+        "price":"$ 49.99"
+    },
+    
+    {
+        "img":"./Img/9781801079976-original_24.jpeg",
+        "title":"50 Projects in 50 Days - HTML, CSS, and...",
+        "price":"$ 99.99"
+    },
+
+    {
+        "img":"./Img/9781803247793-original_19.jpeg",
+        "title":".NET Core Microservices - The Complete...",
+        "price":"$ 19.99"
+    }
+
+]

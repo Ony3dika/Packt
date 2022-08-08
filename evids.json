@@ -1,0 +1,32 @@
+[
+    {
+        "img":"./Img/9781801077361-original_179.png",
+        "title":"C# 10 and .NET 6 Modern Cross",
+        "price":"$ 41.99"
+    },
+
+    {
+        "img":"./Img/9781801819312-original_121.png",
+        "title":"Machine Learning with PyTorch and Scikit-",
+        "price":"$ 41.99"
+    },
+
+    {
+        "img":"./Img/9781801815093-original_290.jpeg",
+        "title":"Learn Python Programming - Third",
+        "price":"$ 37.99"
+    },
+    
+    {
+        "img":"./Img/9781801816618-original_371.jpeg",
+        "title":"Solutions Architect's Handbook - Second...",
+        "price":"$ 41.99"
+    },
+
+    {
+        "img":"./Img/9781838827694-original_148.png",
+        "title":"The Kubernetes Bible - Second Version",
+        "price":"$ 41.99"
+    }
+
+]
